@@ -1,9 +1,9 @@
 ---
-title: "Zen demo site"
+title: "Justice, Emancipation, Democracy, and Information Access"
 baseURL: "https://zen-demo.xdeb.org/"
 theme: "github.com/frjo/hugo-theme-zen/v5"
-copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> license.<!--/Creative Commons License-->'
-languageCode: "en-GB"
+copyright: All rights reserved.
+languageCode: "en-US"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
@@ -30,15 +30,15 @@ outputFormats:
     notAlternative: true
 
 outputs:
-  home: ["HTML","RSS", "JSON", "SearchIndex"]
-  section: ["HTML","RSS", "JSON"]
+  home: ["HTML", "RSS", "JSON", "SearchIndex"]
+  section: ["HTML", "RSS", "JSON"]
 
 params:
   author:
-    name: "Fredrik Jonsson"
-    url: "https://xdeb.org"
-  contact: "frjo@xdeb.org"
-  description: "The zen theme for Hugo demo site."
+    name: "JEDI Organizers"
+    url: "https://jedi.inertial.science"
+  # contact: "frjo@xdeb.org"
+  description: "Web site for the JEDI workshop series."
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
@@ -48,51 +48,19 @@ params:
   logoWidth: 64
   logoHeight: 64
   mainSections:
-    - blog
+    - sigir26
   mobileMenu: true
   poweredby: true
+  relatedposts: false
   realfavicongenerator: true
-  sidebar: false
+  sidebar: true
   submitted: true
 
-languages:
-  en:
-    weight: 1
-    languageName: "English"
-    languageCode: "en-GB"
-    contentDir: content/en
-    menu:
-      main:
-        - Name: "Home"
-          weight: -10
-          pageRef: "/"
-        - Name: "Blog"
-          weight: 2
-          pageRef: "/blog/"
-        - Name: "Podcast"
-          weight: 4
-          pageRef: "/podcast/"
-        - Name: "Products"
-          weight: 6
-          pageRef: "/products/"
-        - Name: "Misc"
-          weight: 8
-          pageRef: "/misc/"
-        - Name: "Search"
-          weight: 10
-          pageRef: "/search/"
-        - Name: "Contact"
-          weight: 12
-          pageRef: "/contact/"
-
-  sv:
-    weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
-    menu:
-      main:
-        - Name: "Hem"
-          weight: -10
-          pageRef: "/"
-
+menu:
+  main:
+    - name: "Home"
+      weight: -10
+      pageRef: "/"
+    - name: "SIGIR 2026"
+      weight: 12
+      pageRef: "/sigir26/"

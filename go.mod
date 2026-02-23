@@ -1,4 +1,4 @@
-module github.com/frjo/zen-demo
+module github.com/mdekstrand/jedi.inertial.science
 
 go 1.24
 

@@ -1,0 +1,39 @@
+# The URL the site will be built for
+base_url = "https://jedi.inertial.science"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "academic-workshop"
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+# Put all your custom variables here
+header_menu_name = "venues"
+
+[[extra.menus.venues]]
+name = "SIGIR 2026"
+url = "/sigir2026/"
+
+[extra.title]
+title = "Justice, Emancipation, Democracy, and Infromation Access"
+subtitles = ["A workshop at SIGIR 2026"]
+
+[[extra.header_pages]]
+name = "Home"
+url = "/"
+
+[[extra.buttons]]
+name = "Home"
+url = "/"
+
+[[extra.buttons]]
+name = "SIGIR 2026"
+url = "/sigir2026/"

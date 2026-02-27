@@ -27,40 +27,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+      - name: Setup environment
+        uses: jdx/mise-action@v3
         with:
-          hugo-version: "latest"
-          extended: true
-
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
+          install: true
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Cache restore
-        id: cache-restore
-        uses: actions/cache/restore@v5
-        with:
-          path: ${{ runner.temp }}/hugo_cache
-          key: hugo-${{ github.run_id }}
-          restore-keys:
-            hugo-
-
       - name: Build
         run: |
-          hugo \
-          --baseURL "${{ steps.pages.outputs.base_url }}/" \
-          --cacheDir "${{ runner.temp }}/hugo_cache"
-
-      - name: Cache save
-        id: cache-save
-        uses: actions/cache/save@v5
-        with:
-          path: ${{ runner.temp }}/hugo_cache
-          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+          zola build --base-url "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4

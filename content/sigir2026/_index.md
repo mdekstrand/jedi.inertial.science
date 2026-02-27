@@ -49,7 +49,7 @@ All accepted abstracts will be non-archival. Presentation proposals based on unp
         ["Sanne Vrijenhoek", "Centrum Wiskunde & Informatica", "Amsterdam, The Netherlands"],
         ["Maria Murray", "Munster Technological University", "Cork, Ireland"],
     ],
-    image_dir = "organizers") 
+    images = ["null", "null", "organizers/ekstrand.jpg", "null", "null"])
 }}
 
 <!-- Bhaskar Mitra, Independent Researcher, Tiohtià:ke / Montréal, Canada (email: bhaskar.mitra@acm.org)

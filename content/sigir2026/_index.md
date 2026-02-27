@@ -4,6 +4,18 @@ title: JEDI @ SIGIR 2026
 
 The JEDI workshop is an interdisciplinary forum for researchers who are interested in critically interrogating the role of technology as a mechanism for accessing information access technology in the struggle for democracy, social justice, and emancipation from social, economic, and political oppression. Our goal is to explore the necessary changes in our technological, organizational, and social arrangements in the field to realize information access as a force for justice, emancipation, and democracy; and to safeguard our information ecosystems from authoritarian and corporate capture. Our goal is to realize information access as a force for justice, emancipation, and democracy, and safeguard our information ecosystems from authoritarian and corporate capture. This involves exploring necessary changes to our technological design, as well as our individual and institutional relationships (academic, industry, government, and civil society) that shape the field. As such, we welcome participants from all interested disciplines, including but not limited to law, social science, information science, human computer interaction, and of course information retrieval.
 
+## Important Dates
+
+<dl class="logistics">
+<dt>Proposal submission</dt>
+<dd>April 16, 2026</dd>
+<dt>Proposal notifications</dt>
+<dd>May 21, 2026</dd>
+<dt>Workshop</dt>
+<dd>July 24, 2026</dd>
+</dl>
+
+
 ## Positionality
 
 This workshop takes an explicitly political lens, recognizing that information and access to information are both profoundly political and represent sites of tension between oppression and emancipation. We reject any ambivalence or false neutrality with respect to oppressor-oppressed relations and situate our work in recent calls (SWIRL report / IRRJ paper) to explicitly align information access research with humanistic, democratic, and emancipatory goals, and the elimination of all structural forms of oppression including colonialism, racism, cisheteropatriarchy, classism, casteism, xenophobia, homophobia, transphobia, Islamophobia, antisemitism, and ableism.

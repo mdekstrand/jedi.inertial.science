@@ -1,0 +1,13 @@
+dl.logistics {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    padding-left: 2em;
+
+    dt {
+        grid-column: 1;
+        font-weight: bold;
+    }
+    dd {
+        grid-column: 2;
+    }
+}

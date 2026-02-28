@@ -61,5 +61,18 @@ All accepted abstracts will be non-archival. Presentation proposals based on unp
         ["Sanne Vrijenhoek", "Centrum Wiskunde & Informatica", "Amsterdam, The Netherlands"],
         ["Maria Murray", "Munster Technological University", "Cork, Ireland"],
     ],
-    images = ["organizers/mitra.jpg", "organizers/mckay.jpg", "organizers/ekstrand.jpg", "organizers/vrijenhoek.jpg", "organizers/murray.jpg"])
+    urls = [
+        "https://bhaskar-mitra.github.io/",
+        "https://sites.google.com/view/dana-mckay/",
+        "https://md.ekstrandom.net/",
+        "https://www.linkedin.com/in/sannevrijenhoek/",
+        "https://crawford.mtu.ie/staff/maria-murray/"
+    ]
+    images = [
+        "organizers/mitra.jpg",
+        "organizers/mckay.jpg",
+        "organizers/ekstrand.jpg",
+        "organizers/vrijenhoek.jpg",
+        "organizers/murray.jpg"
+    ])
 }}

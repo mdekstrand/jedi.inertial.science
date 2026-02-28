@@ -24,10 +24,7 @@ url = "/sigir2026/"
 
 [extra.title]
 title = "Justice, Emancipation, Democracy, and Infromation Access (JEDI)"
-subtitles = [
-    "A workshop at SIGIR 2026",
-    "Follow us: &nbsp;&nbsp;<a href=\"https://bsky.app/profile/jedi-workshop.bsky.social\" class=\"fab fa-bluesky\" style=\"font-size:24px;color:white\"></a>&nbsp;&nbsp;<a href=\"https://mastodon.acm.org/@JEDI\" class=\"fab fa-mastodon\" style=\"font-size:24px;color:white\"></a>"
-  ]
+subtitles = ["A workshop at SIGIR 2026"]
 
 [[extra.header_pages]]
 name = "Home"

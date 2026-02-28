@@ -34,13 +34,25 @@ url = "/"
 name = "Home"
 url = "/"
 
-[[extra.buttons]]
+[[extra.header_pages]]
 name = "SIGIR 2026"
 url = "/sigir2026/"
 
 [[extra.buttons]]
+name = "SIGIR 2026"
+url = "/sigir2026/"
+
+[[extra.header_pages]]
 name = "Follow on Bluesky"
 url = "https://bsky.app/profile/jedi-workshop.bsky.social"
+
+[[extra.buttons]]
+name = "Follow on Bluesky"
+url = "https://bsky.app/profile/jedi-workshop.bsky.social"
+
+[[extra.header_pages]]
+name = "Follow on Mastodon"
+url = "https://mastodon.acm.org/@JEDI"
 
 [[extra.buttons]]
 name = "Follow on Mastodon"

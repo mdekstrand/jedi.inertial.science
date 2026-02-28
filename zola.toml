@@ -23,7 +23,7 @@ name = "SIGIR 2026"
 url = "/sigir2026/"
 
 [extra.title]
-title = "Justice, Emancipation, Democracy, and Infromation Access"
+title = "Justice, Emancipation, Democracy, and Infromation Access (JEDI)"
 subtitles = ["A workshop at SIGIR 2026"]
 
 [[extra.header_pages]]

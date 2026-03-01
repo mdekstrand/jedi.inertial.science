@@ -21,7 +21,7 @@ banner = {extension = "svg", size = "fixed", fade = true}
 footer_text = "\"_Realize information access as the force for justice, emancipation, and democracy we must, my young Padawan._\" - Yoda (probably)"
 
 [[extra.menus.venues]]
-name = "SIGIR 2026"
+name = "@ SIGIR 2026"
 url = "/sigir2026/"
 
 [extra.title]
@@ -37,11 +37,11 @@ name = "Home"
 url = "/"
 
 [[extra.header_pages]]
-name = "SIGIR 2026"
+name = "@ SIGIR 2026"
 url = "/sigir2026/"
 
 [[extra.buttons]]
-name = "SIGIR 2026"
+name = "@ SIGIR 2026"
 url = "/sigir2026/"
 
 [[extra.buttons]]

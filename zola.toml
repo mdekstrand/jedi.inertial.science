@@ -25,6 +25,7 @@ url = "/sigir2026/"
 
 [extra.title]
 title = "Justice, Emancipation, Democracy, and Information Access"
+subtitles = ["WORKSHOP"]
 
 [[extra.header_pages]]
 name = "Home"

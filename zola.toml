@@ -17,7 +17,7 @@ theme = "catppuccin-mocha"
 [extra]
 # Put all your custom variables here
 header_menu_name = "venues"
-banner = {extension = "svg", size = "fixed", fade = true}
+banner = {extension = "svg", size = "fixed", fade = false}
 footer_text = "\"_Realize information access as the force for justice, emancipation, and democracy we must, my young Padawan._\" - Yoda (probably)"
 
 [[extra.menus.venues]]

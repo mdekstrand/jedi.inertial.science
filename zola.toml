@@ -25,7 +25,6 @@ url = "/sigir2026/"
 
 [extra.title]
 title = "Justice, Emancipation, Democracy, and Information Access"
-subtitles = ["Follow us on [Bluesky](https://bsky.app/profile/jedi-workshop.bsky.social) and [Mastodon](https://mastodon.acm.org/@JEDI)"]
 
 [[extra.header_pages]]
 name = "Home"

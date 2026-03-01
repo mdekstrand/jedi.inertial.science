@@ -17,6 +17,7 @@ theme = "catppuccin-mocha"
 [extra]
 # Put all your custom variables here
 header_menu_name = "venues"
+banner = {extension = "svg", size = "fixed", fade = true}
 
 [[extra.menus.venues]]
 name = "SIGIR 2026"

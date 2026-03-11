@@ -42,7 +42,7 @@ We particularly encourage submissions informed by cross-disciplinary perspective
 
 ## Submission and Review Process
 
-We welcome extended abstract submissions via EasyChair (link forthcoming). Make sure to select the "Justice, Emancipation, Democracy, and Information Access (JEDI)" Track when creating a submission.
+We welcome extended abstract submissions via [EasyChair](https://easychair.org/conferences/?conf=sigir2026). Make sure to select the "Justice, Emancipation, Democracy, and Information Access (JEDI)" Track when creating a submission.
 
 Abstracts should be 1-2 pages (excluding references), and must be submitted in PDF format. We do not require adherence to a specific ACM template; but submissions should be in single-column format with at least 11-point font size.
 

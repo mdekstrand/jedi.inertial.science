@@ -57,7 +57,7 @@ All accepted abstracts will be non-archival. Presentation proposals based on unp
 {{ grid(
     text = [
         ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Montréal, Canada"],
-        ["Dana Mckay", "RMIT University", "Naarm / Melbourne, Australia"],
+        ["Dana McKay", "RMIT University", "Naarm / Melbourne, Australia"],
         ["Michael Ekstrand", "Drexel University", "Philadelphia, USA"],
         ["Sanne Vrijenhoek", "Centrum Wiskunde & Informatica", "Amsterdam, The Netherlands"],
         ["Maria Murray", "Munster Technological University", "Cork, Ireland"],

@@ -9,7 +9,7 @@ Information, and access to information, is profoundly political. Information can
 
 <dl class="logistics">
 <dt>Proposal submission</dt>
-<dd>~~April 16~~ April 30 (extended), 2026</dd>
+<dd>~April 16~ April 30 (extended), 2026</dd>
 <dt>Proposal notifications</dt>
 <dd>May 21, 2026</dd>
 <dt>Workshop</dt>

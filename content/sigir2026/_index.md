@@ -77,3 +77,24 @@ All accepted abstracts will be non-archival. Presentation proposals based on unp
         "organizers/murray.jpg"
     ])
 }}
+
+## Organizers
+* [Ludovico Boratto](https://www.ludovicoboratto.com/), University of Cagliari, Italy
+* [Robin Burke](https://www.colorado.edu/cmdi/people/information-science/robin-burke), University of Colorado Boulder, United States
+* [Marc Cheong](https://www.marccheong.com/), University of Melbourne, Australia
+* [Madeleine Daepp](https://madeleinedaepp.com/), Center for Democracy and Technology & Microsoft Research, United States
+* [Savvina Daniil](https://www.linkedin.com/in/savvina-daniil-26a58824a/), Centrum Wiskunde & Informatica, The Netherlands
+* [Ingo Frommholz](https://frommholz.org/), Modul University Vienna, Austria
+* [Mary Gray](https://marylgray.org/), Microsoft Research, United States
+* [Natali Helberger](https://www.uva.nl/en/about-the-uva/organisation/professors/university-professors/natali-helberger.html), University of Amsterdam, The Netherlands
+* [Danula Hettiachchi](https://www.danulahettiachchi.com/), RMIT University, Australia
+* [Maria Heuss](https://mariaheuss.com/), University of Amsterdam, The Netherlands
+* [Lilly Irani](https://quote.ucsd.edu/lirani/), University of California San Diego, United States
+* [Delfina Sol Martinez Pandiani](https://www.humandigitalist.com/), University of Amsterdam, The Netherlands
+* [Margaret Mitchell](https://m-mitchell.com/), Hugging Face, United States
+* [Laurens Naudts](https://www.linkedin.com/in/laurens-naudts-9a935729/), University of Amsterdam, The Netherlands
+* [Vivien Petras](https://www.linkedin.com/in/vivien-petras-10a65313/), Humboldt-Universität zu Berlin, Germany
+* [Damiano Spina](https://www.damianospina.com/), RMIT University, Australia
+* [Alain Starke](https://www.linkedin.com/in/alain-starke-62148525/), University of Amsterdam, The Netherlands
+* [Vittoria Vineis](https://www.linkedin.com/in/vittoria-vineis-a16553185/), Sapienza University of Rome, Italy
+* [Plixavra Vogiatzoglou](https://www.linkedin.com/in/plixavra-vogiatzoglou-516b9212b/), KU Leuven, CiTiP - imec, Belgium

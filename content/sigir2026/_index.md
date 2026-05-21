@@ -78,7 +78,7 @@ All accepted abstracts will be non-archival. Presentation proposals based on unp
     ])
 }}
 
-## Organizers
+## Program Committee
 * [Ludovico Boratto](https://www.ludovicoboratto.com/), University of Cagliari, Italy
 * [Robin Burke](https://www.colorado.edu/cmdi/people/information-science/robin-burke), University of Colorado Boulder, United States
 * [Marc Cheong](https://www.marccheong.com/), University of Melbourne, Australia

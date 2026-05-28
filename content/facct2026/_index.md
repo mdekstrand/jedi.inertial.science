@@ -7,6 +7,10 @@ Information, and access to information, are profoundly political. Information ac
 
 This virtual FAccT social is an explicit act of bridge-building between the FAccT and the IR communities. The social will be a space for members of both communities to collectively engage in dialog on how to realize information access as an emancipatory force and safeguard our information ecosystems from authoritarian and corporate capture. We welcome participants from all disciplines (including IR, FAccT, information science, human-computer interaction, science and technology studies, and critical theory) and practices (including law, policymaking, and movement building) interested in the intersection between digital information access tools and the struggle for social justice, emancipation, and democracy.
 
+## Schedule
+
+TBD.
+
 ## Registration
 
 TBD.
@@ -28,14 +32,17 @@ We welcome all attendees who support justice-oriented, emancipatory, and democra
 {{ grid(
     text = [
         ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Montréal, Canada"],
-        ["Dana McKay", "RMIT University", "Naarm / Melbourne, Australia"]
+        ["Dana McKay", "RMIT University", "Naarm / Melbourne, Australia"],
+        ["Michael Ekstrand", "Drexel University", "Philadelphia, USA"]
     ],
     urls = [
         "https://bhaskar-mitra.github.io/",
-        "https://sites.google.com/view/dana-mckay/"
+        "https://sites.google.com/view/dana-mckay/",
+        "https://md.ekstrandom.net/"
     ]
     images = [
         "organizers/mitra.jpg",
-        "organizers/mckay.jpg"
+        "organizers/mckay.jpg",
+        "organizers/ekstrand.jpg"
     ])
 }}

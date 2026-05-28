@@ -2,7 +2,7 @@
 title: JEDI @ FAccT 2026
 ---
 
-# JEDI Social at FAccT 2026
+# JEDI Social at [FAccT 2026](https://facctconference.org/2026/)
 Information, and access to information, are profoundly political. Information access tools can be emancipatory or used to further invisibilize and oppress historically marginalized groups. Despite this social reality, Information Retrieval (IR), a field of research that has played a significant role in the advancement of information systems such as search engines, recommender systems, and chatbots, often overlooks or even resists the political implications of its work, and thus pays insufficient attention to their responsibility towards social justice and emancipation.
 
 This virtual FAccT social is an explicit act of bridge-building between the FAccT and the IR communities. The social will be a space for members of both communities to collectively engage in dialog on how to realize information access as an emancipatory force and safeguard our information ecosystems from authoritarian and corporate capture. We welcome participants from all disciplines (including IR, FAccT, information science, human-computer interaction, science and technology studies, and critical theory) and practices (including law, policymaking, and movement building) interested in the intersection between digital information access tools and the struggle for social justice, emancipation, and democracy.

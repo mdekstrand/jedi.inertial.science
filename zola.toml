@@ -24,6 +24,10 @@ footer_text = "\"_Realize information access as the force for justice, emancipat
 name = "Workshop @ SIGIR 2026"
 url = "/sigir2026/"
 
+[[extra.menus.venues]]
+name = "Social @ FAccT 2026"
+url = "/facct2026/"
+
 [extra.title]
 title = "Justice, Emancipation, Democracy, and Information Access (JEDI)"
 subtitles = ["COMMUNITY"]
@@ -40,9 +44,17 @@ url = "/"
 name = "Workshop @ SIGIR 2026"
 url = "/sigir2026/"
 
+[[extra.header_pages]]
+name = "Social @ FAccT 2026"
+url = "/facct2026/"
+
 [[extra.buttons]]
 name = "Workshop @ SIGIR 2026"
 url = "/sigir2026/"
+
+[[extra.buttons]]
+name = "Social @ FAccT 2026"
+url = "/facct2026/"
 
 [[extra.buttons]]
 name = "Follow on Bluesky"

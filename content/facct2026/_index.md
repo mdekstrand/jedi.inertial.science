@@ -11,7 +11,7 @@ We welcome participants from all disciplines (including IR, FAccT, information s
 
 ## Schedule
 
-We are in the process of finalizing the date / time for the social with the FAccT 2026 organizing committee and will be announcing the schedule shortly!
+We are in the process of finalizing the date / time for the social with the FAccT 2026 organizing committee and will be announcing it shortly!
 
 ## Registration
 

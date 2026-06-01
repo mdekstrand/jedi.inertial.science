@@ -15,7 +15,7 @@ We are in the process of finalizing the date / time for the social with the FAcc
 
 ## Registration
 
-Please register here: [https://cryptpad.fr/form/#/2/form/view/qKSBdn5IffT6HYNvtcQEfY6WQdxUtUovkvgI9z6mpSA/](https://cryptpad.fr/form/#/2/form/view/qKSBdn5IffT6HYNvtcQEfY6WQdxUtUovkvgI9z6mpSA/).
+Please register here: [https://cryptpad.fr/form/#/2/form/view/qKSBdn5IffT6HYNvtcQEfY6WQdxUtUovkvgI9z6mpSA/](https://cryptpad.fr/form/#/2/form/view/qKSBdn5IffT6HYNvtcQEfY6WQdxUtUovkvgI9z6mpSA/)
 
 Online registration is mandatory to attend the event.
 The online conferencing link for the social will be emailed only to registered participants.

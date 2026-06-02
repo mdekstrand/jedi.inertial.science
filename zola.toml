@@ -53,6 +53,10 @@ name = "Workshop @ SIGIR 2026"
 url = "/sigir2026/"
 
 [[extra.header_pages]]
+name = "Workshop @ ASIS&T 2026"
+url = "/asist2026/"
+
+[[extra.buttons]]
 name = "Social @ FAccT 2026"
 url = "/facct2026/"
 

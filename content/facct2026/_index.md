@@ -10,34 +10,25 @@ This virtual FAccT social is an explicit act of bridge-building between the FAcc
 We welcome participants from all disciplines (including IR, FAccT, information science, human-computer interaction, science and technology studies, and critical theory) and practices (including law, policymaking, and movement building) interested in the intersection between digital information access tools and the struggle for social justice, emancipation, and democracy.
 
 ## Schedule
-
 We are in the process of finalizing the date / time for the social with the FAccT 2026 organizing committee and will be announcing it shortly!
 
 ## Registration
-
-Please register here: [https://bit.ly/jedi-at-facct2026](https://bit.ly/jedi-at-facct2026)
-
-Online registration is mandatory to attend the event.
-The online conferencing link for the social will be emailed only to registered participants.
+To be announced.
 
 ## Program
-
-To be announced soon!
+To be announced.
 
 ## Positionality
-
 This social takes an explicitly political lens, recognizing that information and access to information are both profoundly political and represent sites of tension between oppression and emancipation.
 We reject any ambivalence or false neutrality with respect to oppressor-oppressed relations and situate our work in recent calls ([SWIRL report](https://dl.acm.org/doi/10.1145/3769733.3769739) / [IRRJ paper](https://irrj.org/article/view/24531)) to explicitly align information access research with humanistic, democratic, and emancipatory goals, and the elimination of all structural forms of oppression including colonialism, racism, cisheteropatriarchy, classism, casteism, xenophobia, homophobia, transphobia, Islamophobia, antisemitism, and ableism.
 
 ## Code of Conduct
-
 We welcome all attendees who support justice-oriented, emancipatory, and democratic futures.
 This social is intended to be a space to connect and foster shared understanding of how information access can aid universal humanization and struggles for social justice and emancipation for all.
 Please note that **this space is not a forum to debate whether any group of human beings deserves or should expect justice and emancipation**, and **any participant who attempts this will be strictly asked to leave**.
 We note, too, that loss of historical privilege does not constitute oppression, and anyone attempting to frame it as such will be warned, and then asked to leave.
 
 ## Organizers
-
 {{ grid(
     text = [
         ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Montréal, Canada"],

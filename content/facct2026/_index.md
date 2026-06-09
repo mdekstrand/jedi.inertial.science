@@ -33,18 +33,21 @@ We note, too, that loss of historical privilege does not constitute oppression, 
         ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Montréal, Canada"],
         ["Dana McKay", "RMIT University", "Naarm / Melbourne, Australia"],
         ["Michael Ekstrand", "Drexel University", "Philadelphia, USA"],
+        ["Margaret Mitchell", "Hugging Face", "Seattle, USA"],
         ["Sanne Vrijenhoek", "Centrum Wiskunde & Informatica", "Amsterdam, The Netherlands"],
     ],
     urls = [
         "https://bhaskar-mitra.github.io/",
         "https://sites.google.com/view/dana-mckay/",
         "https://md.ekstrandom.net/",
+        "https://www.m-mitchell.com/",
         "https://www.linkedin.com/in/sannevrijenhoek/",
     ]
     images = [
         "organizers/mitra.jpg",
         "organizers/mckay.jpg",
         "organizers/ekstrand.jpg",
+        "organizers/mitchell.png",
         "organizers/vrijenhoek.jpg",
     ])
 }}

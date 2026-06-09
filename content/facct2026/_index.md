@@ -10,13 +10,12 @@ This virtual FAccT social is an explicit act of bridge-building between the FAcc
 We welcome participants from all disciplines (including IR, FAccT, information science, human-computer interaction, science and technology studies, and critical theory) and practices (including law, policymaking, and movement building) interested in the intersection between digital information access tools and the struggle for social justice, emancipation, and democracy.
 
 ## Schedule
-We are in the process of finalizing the date / time for the social with the FAccT 2026 organizing committee and will be announcing it shortly!
+**Date:** Friday, June 26, 2026
+**Time:** 6:00 – 7:30 PM
+**Location:** Zoom (please register for the event below)
 
 ## Registration
-To be announced.
-
-## Program
-To be announced.
+Please register here: [https://drexel.zoom.us/meeting/register/4xHnAy2lR-C5PXe_rvzfMg](https://drexel.zoom.us/meeting/register/4xHnAy2lR-C5PXe_rvzfMg)
 
 ## Positionality
 This social takes an explicitly political lens, recognizing that information and access to information are both profoundly political and represent sites of tension between oppression and emancipation.

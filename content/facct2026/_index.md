@@ -10,8 +10,8 @@ This virtual FAccT social is an explicit act of bridge-building between the FAcc
 We welcome participants from all disciplines (including IR, FAccT, information science, human-computer interaction, science and technology studies, and critical theory) and practices (including law, policymaking, and movement building) interested in the intersection between digital information access tools and the struggle for social justice, emancipation, and democracy.
 
 ## Schedule
-**Date:** Friday, June 26, 2026
-**Time:** 6:00 – 7:30 PM
+**Date:** Friday, June 26, 2026<br/>
+**Time:** 6:00 – 7:30 PM<br/>
 **Location:** Zoom (please register for the event below)
 
 ## Registration

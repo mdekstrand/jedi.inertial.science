@@ -25,7 +25,7 @@ We welcome all attendees who support justice-oriented, emancipatory, and democra
 ## Organizers
 {{ grid(
     text = [
-        ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Montréal, Canada"],
+        ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Mooniyang / Montréal, Canada"],
         ["Dana McKay", "RMIT University", "Naarm / Melbourne, Australia"],
         ["Michael Ekstrand", "Drexel University", "Philadelphia, USA"],
         ["Maria Murray", "Munster Technological University", "Cork, Ireland"],

@@ -45,7 +45,7 @@ We note, too, that loss of historical privilege does not constitute oppression, 
 ## Organizers
 {{ grid(
     text = [
-        ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Montréal, Canada"],
+        ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Mooniyang / Montréal, Canada"],
         ["Dana McKay", "RMIT University", "Naarm / Melbourne, Australia"],
         ["Michael Ekstrand", "Drexel University", "Philadelphia, USA"],
         ["Margaret Mitchell", "Hugging Face", "Seattle, USA"],

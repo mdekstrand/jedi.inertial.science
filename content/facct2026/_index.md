@@ -60,6 +60,9 @@ We note, too, that loss of historical privilege does not constitute oppression, 
 * [Mary Lang](https://www.linkedin.com/in/marylang1), CLEAR, United States
 * Lauren Quigley, RTI International, United States
 * Anna Marie Rezk, University of Glasgow, United Kingdom
+* [Jay Rosenbaum](https://jrosenbaum.com.au/), RMIT, Australia
 * [Farhan Samir](https://www.cs.toronto.edu/~fsamir/), University of Toronto, Canada
 * Ushnish Sengupta, Algoma University, Canada
 * Aarushi Tripathi, Freelance, Canada
+
+(Registered attendees as of June 15 who agreed to being listed on the website.)

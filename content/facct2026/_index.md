@@ -51,3 +51,15 @@ We note, too, that loss of historical privilege does not constitute oppression, 
         "organizers/vrijenhoek.jpg",
     ])
 }}
+
+## Registered Attendees
+* Ruth A Starkman, Stanford, United States
+* [Robin Burke](https://that-recsys-lab.net/home/people/burke), University of Colorado Boulder, United States
+* Andre Carvalho, Aubay Portugal, Portugal
+* [Dave Howcroft](https://www.davehowcroft.com), University of Aberdeen, United Kingdom
+* [Mary Lang](https://www.linkedin.com/in/marylang1), CLEAR, United States
+* Lauren Quigley, RTI International, United States
+* Anna Marie Rezk, University of Glasgow, United Kingdom
+* [Farhan Samir](https://www.cs.toronto.edu/~fsamir/), University of Toronto, Canada
+* Ushnish Sengupta, Algoma University, Canada
+* Aarushi Tripathi, Freelance, Canada

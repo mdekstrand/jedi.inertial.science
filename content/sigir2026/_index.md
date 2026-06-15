@@ -71,7 +71,7 @@ All accepted abstracts will be non-archival. Presentation proposals based on unp
 ## Organizers
 {{ grid(
     text = [
-        ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Montréal, Canada"],
+        ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Mooniyang / Montréal, Canada"],
         ["Dana McKay", "RMIT University", "Naarm / Melbourne, Australia"],
         ["Michael Ekstrand", "Drexel University", "Philadelphia, USA"],
         ["Sanne Vrijenhoek", "Centrum Wiskunde & Informatica", "Amsterdam, The Netherlands"],

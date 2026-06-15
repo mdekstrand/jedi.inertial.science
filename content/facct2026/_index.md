@@ -27,6 +27,21 @@ This social is intended to be a space to connect and foster shared understanding
 Please note that **this space is not a forum to debate whether any group of human beings deserves or should expect justice and emancipation**, and **any participant who attempts this will be strictly asked to leave**.
 We note, too, that loss of historical privilege does not constitute oppression, and anyone attempting to frame it as such will be warned, and then asked to leave.
 
+## Registered Attendees
+* Ruth A Starkman, Stanford, United States
+* [Robin Burke](https://that-recsys-lab.net/home/people/burke), University of Colorado Boulder, United States
+* Andre Carvalho, Aubay Portugal, Portugal
+* [Dave Howcroft](https://www.davehowcroft.com), University of Aberdeen, United Kingdom
+* [Mary Lang](https://www.linkedin.com/in/marylang1), CLEAR, United States
+* Lauren Quigley, RTI International, United States
+* Anna Marie Rezk, University of Glasgow, United Kingdom
+* [Jay Rosenbaum](https://jrosenbaum.com.au/), RMIT, Australia
+* [Farhan Samir](https://www.cs.toronto.edu/~fsamir/), University of Toronto, Canada
+* Ushnish Sengupta, Algoma University, Canada
+* Aarushi Tripathi, Freelance, Canada
+
+(Registered attendees as of June 15 who agreed to being listed on the website.)
+
 ## Organizers
 {{ grid(
     text = [
@@ -51,18 +66,3 @@ We note, too, that loss of historical privilege does not constitute oppression, 
         "organizers/vrijenhoek.jpg",
     ])
 }}
-
-## Registered Attendees
-* Ruth A Starkman, Stanford, United States
-* [Robin Burke](https://that-recsys-lab.net/home/people/burke), University of Colorado Boulder, United States
-* Andre Carvalho, Aubay Portugal, Portugal
-* [Dave Howcroft](https://www.davehowcroft.com), University of Aberdeen, United Kingdom
-* [Mary Lang](https://www.linkedin.com/in/marylang1), CLEAR, United States
-* Lauren Quigley, RTI International, United States
-* Anna Marie Rezk, University of Glasgow, United Kingdom
-* [Jay Rosenbaum](https://jrosenbaum.com.au/), RMIT, Australia
-* [Farhan Samir](https://www.cs.toronto.edu/~fsamir/), University of Toronto, Canada
-* Ushnish Sengupta, Algoma University, Canada
-* Aarushi Tripathi, Freelance, Canada
-
-(Registered attendees as of June 15 who agreed to being listed on the website.)

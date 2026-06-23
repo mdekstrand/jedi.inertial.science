@@ -24,17 +24,17 @@ We welcome all attendees who support justice-oriented, emancipatory, and democra
             <b>Presentation panels</b><br/><br/>
             <i>Panel I: Auditing and Representation</i>
             <ol>
-                <li>PRISM: A Framework for Epistemic Auditing and Value-Explicit Information Retrieval (5 mins)</li>
-                <li>Information Access as Contested Terrain: Toward Justice-Centred Participatory Auditing Practices (5 mins)</li>
-                <li>Beyond Index Scores: Utilizing Social Media Signals for Multidimensional Democratic Health (5 mins)</li>
-                <li>Indigenous Place Name Representation in the Modern Age of Information Access information (5 mins)</li>
+                <li>PRISM: A Framework for Epistemic Auditing and Value-Explicit Information Retrieval - Ved Prakash Chutani (5 mins)</li>
+                <li>Information Access as Contested Terrain: Toward Justice-Centred Participatory Auditing Practices - Anna Marie Rezk, Graham McDonald, Craig Macdonald, and Iadh Ounis (5 mins)</li>
+                <li>Beyond Index Scores: Utilizing Social Media Signals for Multidimensional Democratic Health - Aarzoo Dhiman (5 mins)</li>
+                <li>Indigenous Place Name Representation in the Modern Age of Information Access information - Nicole Schneider and Hanan Samet (5 mins)</li>
                 <li>Joint Q&A (10 mins)</li>
             </ol>
             <i>Panel 2: Law and Policy</i>
             <ol>
-                <li>The Right to Be Forgotten, Misremembered: Post-Unlearning Hallucinations in LLMs (5 mins)</li>
-                <li>Searching for Sovereignty: Evaluating Perplexity’s Information Environment in Politically Polarised Policy Contexts (5 mins)</li>
-                <li>From Opacity to Access: Discourse-Informed Analysis of Judicial Reasoning in U.S. Copyright Damages (5 mins)</li>
+                <li>The Right to Be Forgotten, Misremembered: Post-Unlearning Hallucinations in LLMs - Bo-Fong Yao and Pei-Chi Lo (5 mins)</li>
+                <li>Searching for Sovereignty: Evaluating Perplexity’s Information Environment in Politically Polarised Policy Contexts - Jean-Shelia Messi (5 mins)</li>
+                <li>From Opacity to Access: Discourse-Informed Analysis of Judicial Reasoning in U.S. Copyright Damages - Pei-Chi Lo, Thomas Y. Lu, I-Hua Lee, and You-Qi Chen (5 mins)</li>
                 <li>Joint Q&A (10 mins)</li>
             </ol>
         </td>

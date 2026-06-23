@@ -12,7 +12,7 @@ This workshop takes an explicitly political lens, recognizing that information a
 We welcome all attendees who support justice-oriented, emancipatory, and democratic futures. This workshop is intended to be a space to connect and foster shared understanding of how information access can aid universal humanization and struggles for social justice and emancipation for all. Please note that **this workshop is not a forum to debate whether any group of human beings deserves or should expect justice and emancipation**, and **any participant who attempts this will be strictly asked to leave**. We note, too, that loss of historical privilege does not constitute oppression, and anyone attempting to frame it as such will be warned, and then asked to leave.
 
 ## Program
-### Friday, July 24
+**Friday, July 24**
 <table>
     <tr>
         <td><b>9:00 am -  9:30 am</b></td>
@@ -21,7 +21,22 @@ We welcome all attendees who support justice-oriented, emancipatory, and democra
     <tr>
         <td><b>9:30 am - 10:30 am</b></td>
         <td>
-            <b>Presentation panels</b>
+            <b>Presentation panels</b><br/>
+            <i>Panel I: Auditing and Representation</i>
+            <ol>
+                <li>PRISM: A Framework for Epistemic Auditing and Value-Explicit Information Retrieval (5 mins)</li>
+                <li>Information Access as Contested Terrain: Toward Justice-Centred Participatory Auditing Practices (5 mins)</li>
+                <li>Beyond Index Scores: Utilizing Social Media Signals for Multidimensional Democratic Health (5 mins)</li>
+                <li>Indigenous Place Name Representation in the Modern Age of Information Access information (5 mins)</li>
+                <li>Joint Q&A (10 mins)</li>
+            </ol>
+            <i>Panel 2: Law and Policy</i>
+            <ol>
+                <li>The Right to Be Forgotten, Misremembered: Post-Unlearning Hallucinations in LLMs (5 mins)</li>
+                <li>Searching for Sovereignty: Evaluating Perplexity’s Information Environment in Politically Polarised Policy Contexts (5 mins)</li>
+                <li>From Opacity to Access: Discourse-Informed Analysis of Judicial Reasoning in U.S. Copyright Damages (5 mins)</li>
+                <li>Joint Q&A (10 mins)</li>
+            </ol>
         </td>
     </tr>
     <tr>

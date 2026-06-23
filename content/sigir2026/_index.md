@@ -21,7 +21,7 @@ We welcome all attendees who support justice-oriented, emancipatory, and democra
     <tr>
         <td><b>9:30 am - 10:30 am</b></td>
         <td>
-            <b>Presentation panels</b><br/>
+            <b>Presentation panels</b><br/><br/>
             <i>Panel I: Auditing and Representation</i>
             <ol>
                 <li>PRISM: A Framework for Epistemic Auditing and Value-Explicit Information Retrieval (5 mins)</li>

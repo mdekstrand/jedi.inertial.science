@@ -32,7 +32,7 @@ We note, too, that loss of historical privilege does not constitute oppression, 
 * Jhana Bach, United States
 * [Robin Burke](https://that-recsys-lab.net/home/people/burke), University of Colorado Boulder, United States
 * Andre Carvalho, Aubay Portugal, Portugal
-* Tanise Ceron, Bocconi, Italy
+* [Tanise Ceron](https://tceron.github.io/), Bocconi, Italy
 * Darren Flynn, University College London, United Kingdom
 * [Ingo Frommholz](https://frommholz.org), Modul University Vienna, Austria
 * [Dave Howcroft](https://www.davehowcroft.com), University of Aberdeen, United Kingdom

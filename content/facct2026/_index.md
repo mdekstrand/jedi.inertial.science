@@ -49,7 +49,7 @@ We note, too, that loss of historical privilege does not constitute oppression, 
 * [Alda Terracciano](https://aldaterra.com/), UCL, United Kingdom
 * Aarushi Tripathi, Freelance, Canada
 
-(Registered attendees as of June 22 who agreed to being listed on the website.)
+(Registered attendees as of June 24 who agreed to being listed on our website.)
 
 ## Organizers
 {{ grid(

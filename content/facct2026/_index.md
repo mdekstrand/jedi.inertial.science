@@ -35,6 +35,7 @@ We note, too, that loss of historical privilege does not constitute oppression, 
 * [Tanise Ceron](https://tceron.github.io/), Bocconi, Italy
 * Darren Flynn, University College London, United Kingdom
 * [Ingo Frommholz](https://frommholz.org), Modul University Vienna, Austria
+* [Djoerd Hiemstra](https://www.cs.ru.nl/~hiemstra), Radboud University, The Netherlands
 * [Dave Howcroft](https://www.davehowcroft.com), University of Aberdeen, United Kingdom
 * [Mansur Khan](https://mansurakhan.github.io/), University of Washington, United States
 * [Mary Lang](https://www.linkedin.com/in/marylang1), CLEAR, United States
@@ -46,6 +47,7 @@ We note, too, that loss of historical privilege does not constitute oppression, 
 * Sananda Sahoo, Western University, Canada
 * [Farhan Samir](https://www.cs.toronto.edu/~fsamir/), University of Toronto, Canada
 * Ushnish Sengupta, Algoma University, Canada
+* [Ronen Tamari](https://ronentk.me/), Cosmik, United States
 * [Alda Terracciano](https://aldaterra.com/), UCL, United Kingdom
 * Aarushi Tripathi, Freelance, Canada
 

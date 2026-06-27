@@ -30,13 +30,17 @@ We note, too, that loss of historical privilege does not constitute oppression, 
 ## Registered Attendees
 * Ruth A Starkman, Stanford, United States
 * Jhana Bach, United States
+* Rashika Bahl, AU
+* George Buchanan, RMIT University, Australia
 * [Robin Burke](https://that-recsys-lab.net/home/people/burke), University of Colorado Boulder, United States
 * Andre Carvalho, Aubay Portugal, Portugal
 * [Tanise Ceron](https://tceron.github.io/), Bocconi, Italy
+* [Shiran Dudy](https://www.shirandudy.com/), Northeastern U, United States
 * Darren Flynn, University College London, United Kingdom
 * [Ingo Frommholz](https://frommholz.org), Modul University Vienna, Austria
 * [Djoerd Hiemstra](https://www.cs.ru.nl/~hiemstra), Radboud University, The Netherlands
 * [Dave Howcroft](https://www.davehowcroft.com), University of Aberdeen, United Kingdom
+* [Maggie Hughes](https://maggatronn.github.io/chez-maggie/), Convoca, United States
 * [Mansur Khan](https://mansurakhan.github.io/), University of Washington, United States
 * [Mary Lang](https://www.linkedin.com/in/marylang1), CLEAR, United States
 * [Nicola Neophytou](https://www.linkedin.com/in/nicola-neophytou/), Canada

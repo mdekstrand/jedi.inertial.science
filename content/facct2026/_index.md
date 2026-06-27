@@ -30,7 +30,7 @@ We note, too, that loss of historical privilege does not constitute oppression, 
 ## Registered Attendees
 * Ruth A Starkman, Stanford, United States
 * Jhana Bach, United States
-* Rashika Bahl, AU
+* Rashika Bahl, Australia
 * George Buchanan, RMIT University, Australia
 * [Robin Burke](https://that-recsys-lab.net/home/people/burke), University of Colorado Boulder, United States
 * Andre Carvalho, Aubay Portugal, Portugal

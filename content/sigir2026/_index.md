@@ -26,7 +26,6 @@ We welcome all attendees who support justice-oriented, emancipatory, and democra
             <ol>
                 <li>PRISM: A Framework for Epistemic Auditing and Value-Explicit Information Retrieval - Ved Prakash Chutani (5 mins)</li>
                 <li>Information Access as Contested Terrain: Toward Justice-Centred Participatory Auditing Practices - Anna Marie Rezk, Graham McDonald, Craig Macdonald, and Iadh Ounis (5 mins)</li>
-                <li>Beyond Index Scores: Utilizing Social Media Signals for Multidimensional Democratic Health - Aarzoo Dhiman (5 mins)</li>
                 <li>Indigenous Place Name Representation in the Modern Age of Information Access information - Nicole Schneider and Hanan Samet (5 mins)</li>
                 <li>Joint Q&A (10 mins)</li>
             </ol>

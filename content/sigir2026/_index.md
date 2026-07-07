@@ -71,13 +71,13 @@ We welcome all attendees who support justice-oriented, emancipatory, and democra
     <tr>
         <td><b>3:45 pm - 4:00 pm</b></td>
         <td>
-            <b>Closing remarks (jointly with [VulGen Workshop](https://vulgen-workshop.github.io/SIGIR2026/))</b>
+            <b>Closing remarks (jointly with <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen Workshop</a>)</b>
         </td>
     </tr>
     <tr>
         <td><b>4:00 pm - 5:00 pm</b></td>
         <td>
-            <b>JEDI + [VulGen](https://vulgen-workshop.github.io/SIGIR2026/) joint panel session</b>
+            <b>JEDI + <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen</a> joint panel session</b>
         </td>
     </tr>
 </table>

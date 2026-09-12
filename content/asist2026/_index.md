@@ -12,15 +12,64 @@ This workshop is an explicit act of bridge-building to engage members of both th
 The workshop will be highly interactive and collaborative, and aims to produce a draft manifesto for tools that meet social justice expectations.
 We welcome participants from all interested disciplines, including but not limited to social science, human-computer interaction, science and technology studies, critical theory, law, and of course information science and information retrieval.
 
-## Important Dates
-To be announced.
-
-
 ## Positionality
 This workshop takes an explicitly political lens, recognizing that information and access to information are both profoundly political and represent sites of tension between oppression and emancipation. We reject any ambivalence or false neutrality with respect to oppressor-oppressed relations and situate our work in recent calls ([SWIRL report](https://dl.acm.org/doi/10.1145/3769733.3769739) / [IRRJ paper](https://irrj.org/article/view/24531)) to explicitly align information access research with humanistic, democratic, and emancipatory goals, and the elimination of all structural forms of oppression including colonialism, racism, cisheteropatriarchy, classism, casteism, xenophobia, homophobia, transphobia, Islamophobia, antisemitism, and ableism.
 
 ## Code of Conduct
 We welcome all attendees who support justice-oriented, emancipatory, and democratic futures. This workshop is intended to be a space to connect and foster shared understanding of how information access can aid universal humanization and struggles for social justice and emancipation for all. Please note that **this workshop is not a forum to debate whether any group of human beings deserves or should expect justice and emancipation**, and **any participant who attempts this will be strictly asked to leave**. We note, too, that loss of historical privilege does not constitute oppression, and anyone attempting to frame it as such will be warned, and then asked to leave.
+
+## Program
+**Friday, November 6**
+<table>
+    <tr>
+        <td><b>1:00 pm - 1:45 pm</b></td>
+        <td>
+            <b>Opening remarks</b><br/>
+            Welcome address by the organizers including an overview of the day's agenda.
+        </td>
+    </tr>
+    <tr>
+        <td><b>1:45 pm - 2:30 pm</b></td>
+        <td>
+            <b>Breakout session I</b><br/>
+            Participants brainstorm key requirements for information access systems to ensure support for social justice, emancipation, and democracy.
+        </td>
+    </tr>
+    <tr>
+        <td><b>2:30 pm - 3:00 pm</b></td>
+        <td>
+            <b>Decide manifesto outline</b><br/>
+            Participants consolidate and refine identified requirements into outline items for the manifesto.
+        </td>
+    </tr>
+    <tr>
+        <td><b>3:00 pm - 3:15 pm</b></td>
+        <td>
+            <b>Short break</b>
+        </td>
+    </tr>
+    <tr>
+        <td><b>3:15 pm - 3:30 pm</b></td>
+        <td>
+            <b>Form breakout groups</b><br/>
+            Participants select the manifesto outline item they want to contribute to.
+        </td>
+    </tr>
+    <tr>
+        <td><b>3:30 pm - 4:30 pm</b></td>
+        <td>
+            <b>Breakout session II</b><br/>
+            Participants work on drafting a section of the manifesto document corresponding to the outline item selected by the group.
+        </td>
+    </tr>
+    <tr>
+        <td><b>4:30 pm - 5:00 pm</b></td>
+        <td>
+            <b>Forward planning and closing</b><br/>
+            Organizers and participants conclude with reflections on the day's proceedings and identify post-workshop follow up actions.
+        </td>
+    </tr>
+</table>
 
 ## Organizers
 {{ grid(

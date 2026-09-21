@@ -29,18 +29,19 @@ jobs:
         with:
           submodules: recursive
 
-      - name: Setup environment
-        uses: jdx/mise-action@v3
+      - uses: aquaproj/aqua-installer@96a9bc20066c5bf5e275b41019cfc165b25f4e2e # v4.0.5
         with:
-          install: true
+          aqua_version: v2.43.1
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Build
+      - name: Build with Zola
         run: |
-          zola build --base-url "${{ steps.pages.outputs.base_url }}/"
+          zola build --base-url "$BASE_URL"
+        env:
+          BASE_URL: ${{ steps.pages.outputs.base_url }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4

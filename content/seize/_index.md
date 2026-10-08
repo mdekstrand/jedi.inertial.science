@@ -22,5 +22,5 @@ We reject the specter of _digital sovereignty_ that reinforces the politics of u
 Instead, our project aims for _**digital solidarity**_ between marginalized peoples across the globe engaged in a shared struggle against colonialist, imperialist, and capitalist oppression.
 
 We wish to move forward cautiously and thoughtfully, recognizing the incessant capacity of power and capital to co-opt well-intentioned endeavours.
-We dismiss the uncritical notion that simply making technological artifacts open or inviting community members to participate in technology development without affording them real power lead to positive societal outcomes.
-Instead, we strive for a model of development where information access technologies are co-constructed by marginalized communities empowering them to define and negotiate how they are represented, how their information needs are met, and how their data is safeguarded from exploitative extraction. 
+We dismiss any uncritical notion that simply making technological artifacts open or inviting community members to participate in technology development without affording them real power lead to positive societal outcomes.
+Instead, we strive for a model of development where information access technologies are co-constructed by marginalized communities, empowering them to define and negotiate how they are represented by the algorithms, how their information needs are met, and how their data is safeguarded from exploitative extraction.

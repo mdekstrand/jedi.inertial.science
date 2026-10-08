@@ -3,5 +3,5 @@ title: JEDI SEIZE
 ---
 
 # JEDI SEIZE
-<center><i>Seize the Means of Retrieval</i></center>
+<center><i style="font-size:40px">Seize the Means of Retrieval</i></center>
 

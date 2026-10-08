@@ -16,9 +16,9 @@ It is time for the information access (IA) / information retrieval (IR) communit
 The JEDI SEIZE initiative aims to bring together a coalition of diverse researchers and practitioners to develop tangible and substantive agendas for information access research and development in support of this goal.
 
 ## What we must reimagine
-The future of information access is decentralized and emancipatory.
+The future of information access is **decentralized** and **emancipatory**.
 Our pursuit of that future is expressly political with the aim of realizing information access as a force for social justice, emancipation, and democracy.
-We reject the specter of _**digital sovereignty**_ that reinforces the politics of ultra-nationalism and dresses up technofascism with a different flag.
+We reject the specter of _digital sovereignty_ that reinforces the politics of ultra-nationalism and dresses up technofascism with a different flag.
 Instead, our project aims for _**digital solidarity**_ between marginalized peoples across the globe engaged in a shared struggle against colonialist, imperialist, and capitalist oppression.
 
 We wish to move forward cautiously and thoughtfully, recognizing the incessant capacity of power and capital to co-opt well-intentioned endeavours.

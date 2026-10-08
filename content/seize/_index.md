@@ -2,7 +2,7 @@
 title: JEDI SEIZE
 ---
 
-<center style="font-size:20px"><a href="https://sigir.org/futures/">SIGIR Futures</a> Presents</center>
+<center style="font-size:30px"><a href="https://sigir.org/futures/">SIGIR Futures</a> Presents</center>
 
 # JEDI SEIZE
 <center style="font-size:20px"><i>Seize the Means of Retrieval</i></center>

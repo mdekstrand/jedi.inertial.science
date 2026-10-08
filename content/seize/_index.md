@@ -50,8 +50,8 @@ We want to be candor in our confession that we do not know how to do this but we
         "organizers/mitra.jpg",
         "organizers/mckay.jpg",
         "organizers/hiemstra.jpg",
-        "organizers/ekstrand.jpg",
         "organizers/vrijenhoek.jpg",
+        "organizers/ekstrand.jpg",
         "organizers/spina.webp"
     ])
 }}

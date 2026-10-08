@@ -14,3 +14,6 @@ These concerns are not hypothetical but grounded in ongoing instances of attempt
 
 It is time for the information access (IA) / information retrieval (IR) communities—the fields of research that has played a significant role in the advancement of information systems such as search engines, recommender systems, and chatbots—to seriously engage with these concerns and collectively commit to designing and developing alternative infrastructure for public information access.
 The JEDI SEIZE initiative aims to bring together a coalition of diverse researchers and practitioners to develop tangible and substantive agendas for information access research and development in support of this goal.
+
+## What we must reimagine
+The future of information access is decentralized and emancipatory.

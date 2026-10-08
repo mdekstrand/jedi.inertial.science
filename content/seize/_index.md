@@ -24,3 +24,34 @@ Instead, our project aims for _**digital solidarity**_ between marginalized peop
 We wish to move forward cautiously and thoughtfully, recognizing the incessant capacity of power and capital to co-opt well-intentioned endeavours.
 We dismiss any uncritical notion that simply making technological artifacts open or inviting community members to participate in technology development without affording them real power lead to positive societal outcomes.
 Instead, we strive for a model of development where information access technologies are co-constructed by marginalized communities, empowering them to define and negotiate how they are represented by the algorithms, how their information needs are met, and how their data is safeguarded from exploitative extraction.
+
+We want to be candor in our confession that we do not know how to do this but we are also resolute in our belief that this is the task at hand.
+
+
+## Organizers
+{{ grid(
+    text = [
+        ["Bhaskar Mitra", "Independent Researcher", "Tiohtià:ke / Mooniyang / Montréal, Canada"],
+        ["Dana McKay", "RMIT University", "Naarm / Melbourne, Australia"],
+        ["Djoerd Hiemstra", "Radboud University", "Nijmegen, The Netherlands"],
+        ["Sanne Vrijenhoek", "Centrum Wiskunde & Informatica", "Amsterdam, The Netherlands"],
+        ["Michael Ekstrand", "Drexel University", "Philadelphia, USA"],
+        ["Damiano Spina", "RMIT University", "Naarm / Melbourne, Australia"],
+    ],
+    urls = [
+        "https://bhaskar-mitra.github.io/",
+        "https://sites.google.com/view/dana-mckay/",
+        "https://djoerdhiemstra.com/",
+        "https://www.linkedin.com/in/sannevrijenhoek/",
+        "https://md.ekstrandom.net/",
+        "https://www.damianospina.com/"
+    ]
+    images = [
+        "organizers/mitra.jpg",
+        "organizers/mckay.jpg",
+        "organizers/hiemstra.jpg",
+        "organizers/ekstrand.jpg",
+        "organizers/vrijenhoek.jpg",
+        "organizers/spina.webp"
+    ])
+}}

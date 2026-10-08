@@ -17,7 +17,10 @@ The JEDI SEIZE initiative aims to bring together a coalition of diverse research
 
 ## What we must reimagine
 The future of information access is decentralized and emancipatory.
-Our pursuit of that future is expressly political to realize information access as a force for social justice, emancipation, and democracy.
+Our pursuit of that future is expressly political with the aim of realizing information access as a force for social justice, emancipation, and democracy.
 We reject the specter of _digital sovereignty_ that reinforces the politics of ultra-nationalism and dresses up technofascism with a different flag.
 Instead, our project aims for _digital solidarity_ between marginalized peoples across the globe engaged in a shared struggle against colonialist, imperialist, and capitalist oppression.
 
+We wish to move forward cautiously and thoughtfully, recognizing the incessant capacity of power and capital to co-opt well-intentioned endeavours.
+We dismiss the uncritical notion that simply making technological artifacts open or inviting community members to participate in technology development without affording them real power lead to positive societal outcomes.
+Instead, we strive for a model of development where information access technologies are co-constructed by marginalized communities empowering them to define and negotiate how they are represented, how their information needs are met, and how their data is safeguarded from exploitative extraction. 

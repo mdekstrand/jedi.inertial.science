@@ -32,6 +32,10 @@ url = "/sigir2026/"
 name = "Workshop @ ASIS&T 2026"
 url = "/asist2026/"
 
+[[extra.menus.venues]]
+name = "JEDI SEIZE"
+url = "/seize/"
+
 [extra.title]
 title = "Justice, Emancipation, Democracy, and Information Access (JEDI)"
 subtitles = ["COMMUNITY"]
@@ -67,6 +71,14 @@ url = "/asist2026/"
 [[extra.buttons]]
 name = "Workshop @ ASIS&T 2026"
 url = "/asist2026/"
+
+[[extra.header_pages]]
+name = "JEDI SEIZE"
+url = "/seize/"
+
+[[extra.buttons]]
+name = "JEDI SEIZE"
+url = "/seize/"
 
 [[extra.buttons]]
 name = "Follow on Bluesky"

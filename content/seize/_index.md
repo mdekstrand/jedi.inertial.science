@@ -18,8 +18,7 @@ The JEDI SEIZE initiative aims to bring together a coalition of diverse research
 ## What We Must Reimagine
 The future of information access is **decentralized** and **emancipatory**.
 Our pursuit of that future is expressly political with the aim of realizing information access as a force for social justice, emancipation, and democracy.
-We do not do this for _digital sovereignty_ that reinforces the politics of ultra-nationalism and dresses up technofascism in a different flag.
-Instead, our project aims for _**digital solidarity**_ between marginalized peoples across the globe engaged in a shared struggle against colonialist, imperialist, and capitalist oppression.
+Our work is motivated by the goal of _**digital solidarity**_ between marginalized peoples across the globe engaged in a shared struggle against colonialist, imperialist, and capitalist oppression—and not digital sovereignty<sup><a href="https://www.canada.ca/en/shared-services/services/digital-sovereignty.html">8</a>, <a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/651992/EPRS_BRI(2020)651992_EN.pdf">9</a></sup> of nations nor digital solidarity<sup><a href="https://2021-2025.state.gov/building-digital-solidarity-the-united-states-international-cyberspace-and-digital-policy-strategy/">10</a></sup> between nation states.
 
 We wish to move forward cautiously and thoughtfully, recognizing the incessant capacity of power and capital to co-opt well-intentioned endeavours.
 We do not believe that simply making technological artifacts open or inviting community members to participate in technology development without affording them real power leads to positive societal outcomes.
@@ -27,7 +26,7 @@ Instead, we strive for a model of development where information access technolog
 
 We confess that we do not know how to do this yet.
 But this _is_ the task at hand.
-We are inspired by the exciting community-centered projects experimenting on decentralized social media, the Indigenous-led initiatives for data and digital sovereignty, and all other acts of technological resistance<sup><a href="https://airesistlist.org/">8</a></sup> from around the globe.
+We are inspired by the exciting community-centered projects experimenting on decentralized social media, the Indigenous-led initiatives for data and digital sovereignty, and all other acts of technological resistance<sup><a href="https://airesistlist.org/">11</a></sup> from around the globe.
 We intend to be in dialog _with_ the people already doing the work, and build reciprocal partnerships and collective solidarity to reclaim our information futures.
 We believe that it is only collectively that we can make meaningful progress on the challenging questions in front of us that are simultaneously technological, social, political, and economic.
 
@@ -52,7 +51,7 @@ How do we "move slow and build things" while navigating ongoing technological an
 _**Responsible frameworks for privacy, consent, and data sovereignty.&nbsp;**_
 How do we develop responsible frameworks for handling both user data and web data that provides strong privacy, consent, and data sovereignty guarantees?
 How do we safeguard against exploitative value extraction from user and community data?
-How do we ensure that consent processes abide by the FRIES principles<sup><a href="https://www.plannedparenthood.org/planned-parenthood-greater-ohio/media/blog-copy-2/would-you-like-fries-with-that-the-5-pillars-of-consent-everyone-should-know">9</a></sup> (Freely given, Reversible, Informed, Enthusiastic, and Specific)?
+How do we ensure that consent processes abide by the FRIES principles<sup><a href="https://www.plannedparenthood.org/planned-parenthood-greater-ohio/media/blog-copy-2/would-you-like-fries-with-that-the-5-pillars-of-consent-everyone-should-know">12</a></sup> (Freely given, Reversible, Informed, Enthusiastic, and Specific)?
 How do we ensure that our data processes respect individual and community ownership and sovereignty over their data?
 How do we separate discovery, which alerts searchers to the existence of items, from access, in which community grants access to data or information?
 And how do we facilitate access requests?

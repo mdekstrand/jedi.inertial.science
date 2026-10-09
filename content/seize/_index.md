@@ -28,6 +28,8 @@ Instead, we strive for a model of development where information access technolog
 We want to be candor in our confession that we do not know how to do this but we are also resolute in our belief that this is the task at hand.
 We are inspired by the burgeoning community-centered projects around decentralized social media, the Indigenous-led initiatives for data and digital sovereignty, and all other acts of technological resistance.<sup><a href="https://airesistlist.org/">8</a></sup>
 It is our intention to be in dialog _with_ the people already doing the work, and build reciprocal partnerships and collective solidarity to reclaim our information futures.
+It is only collectively that we can plausibly expect to make meaningful progress on the challenging questions in front of us that are simultaneously technological, social, political, and economic.
+We foreground some of these questions below:
 
 ## Organizers
 {{ grid(

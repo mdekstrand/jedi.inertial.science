@@ -18,18 +18,18 @@ The JEDI SEIZE initiative aims to bring together a coalition of diverse research
 ## What We Must Reimagine
 The future of information access is **decentralized** and **emancipatory**.
 Our pursuit of that future is expressly political with the aim of realizing information access as a force for social justice, emancipation, and democracy.
-We reject the specter of _digital sovereignty_ that reinforces the politics of ultra-nationalism and dresses up technofascism with a different flag.
+We reject the call for _digital sovereignty_ that reinforces the politics of ultra-nationalism and dresses up technofascism in a different flag.
 Instead, our project aims for _**digital solidarity**_ between marginalized peoples across the globe engaged in a shared struggle against colonialist, imperialist, and capitalist oppression.
 
 We wish to move forward cautiously and thoughtfully, recognizing the incessant capacity of power and capital to co-opt well-intentioned endeavours.
-We dismiss any uncritical notion that simply making technological artifacts open or inviting community members to participate in technology development without affording them real power lead to positive societal outcomes.
+We do not believe that simply making technological artifacts open or inviting community members to participate in technology development without affording them real power leads to positive societal outcomes.
 Instead, we strive for a model of development where information access technologies are co-constructed by marginalized communities, empowering them to define and negotiate how they are represented by the algorithms, how their information needs are met, and how their data is safeguarded from exploitative extraction.
 
 We confess that we do not know how to do this yet.
 But this _is_ the task at hand.
 We are inspired by the exciting community-centered projects experimenting on decentralized social media, the Indigenous-led initiatives for data and digital sovereignty, and all other acts of technological resistance<sup><a href="https://airesistlist.org/">8</a></sup> from around the globe.
-It is our intention to be in dialog _with_ the people already doing the work, and build reciprocal partnerships and collective solidarity to reclaim our information futures.
-It is only collectively that we can expect to make meaningful progress on the challenging questions in front of us that are simultaneously technological, social, political, and economic.
+We intend to be in dialog _with_ the people already doing the work, and build reciprocal partnerships and collective solidarity to reclaim our information futures.
+We believe that it is only collectively that we can make meaningful progress on the challenging questions in front of us that are simultaneously technological, social, political, and economic.
 
 We foreground some of these questions below:
 

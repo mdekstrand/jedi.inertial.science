@@ -26,7 +26,8 @@ We dismiss any uncritical notion that simply making technological artifacts open
 Instead, we strive for a model of development where information access technologies are co-constructed by marginalized communities, empowering them to define and negotiate how they are represented by the algorithms, how their information needs are met, and how their data is safeguarded from exploitative extraction.
 
 We want to be candor in our confession that we do not know how to do this but we are also resolute in our belief that this is the task at hand.
-
+We are inspired by the burgeoning community-centered projects around decentralized social media, the Indigenous-led initiatives for data and digital sovereignty, and all other acts of technological resistance.<sup><a href="https://airesistlist.org/">8</a></sup>
+It is our intention to be in dialog _with_ the people already doing the work, and build reciprocal partnerships and collective solidarity to reclaim our information futures.
 
 ## Organizers
 {{ grid(

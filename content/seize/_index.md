@@ -75,15 +75,15 @@ We hope to share more details soon on how you can get involved.
 In the meantime, if you are interested or curious, please feel free to get in touch with one of our program coordinators.
 
 ## References
-1. https://www.theguardian.com/technology/2025/jan/28/we-tried-out-deepseek-it-works-well-until-we-asked-it-about-tiananmen-square-and-taiwan
-2. https://www.eff.org/deeplinks/2025/08/president-trumps-war-woke-ai-civil-liberties-nightmare
-3. https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age
-4. https://www.theguardian.com/technology/2025/may/14/elon-musk-grok-white-genocide
-5. https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb
-6. https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402
-7. https://www.theguardian.com/technology/ng-interactive/2025/jan/29/silicon-valley-rightwing-technofascism
-8. https://airesistlist.org/
-9. https://www.plannedparenthood.org/planned-parenthood-greater-ohio/media/blog-copy-2/would-you-like-fries-with-that-the-5-pillars-of-consent-everyone-should-know
+1. Lu, D. (2025). [_We tried out DeepSeek. It worked well, until we asked it about Tiananmen Square and Taiwan_](https://www.theguardian.com/technology/2025/jan/28/we-tried-out-deepseek-it-works-well-until-we-asked-it-about-tiananmen-square-and-taiwan). The Guardian.
+2. Noble, T., & Walsh, K. (2025). [_President trump’s war on “woke ai” is a civil liberties nightmare_](https://www.eff.org/deeplinks/2025/08/president-trumps-war-woke-ai-civil-liberties-nightmare). Electronic Frontier Foundation Deeplinks Blog.
+3. Arikat, S. (2026). [_Israel takes its war on Palestine into the AI age_](https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age). Al Jazeera.
+4. Kerr, D. (2025). [_Musk’s ai grok bot rants about ‘white genocide’in south africa in unrelated chats_](https://www.theguardian.com/technology/2025/may/14/elon-musk-grok-white-genocide). The Guardian.
+5. Taylor, J. (2025). [_Musk’s AI firm forced to delete posts praising Hitler from Grok chatbot_](https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb). The Guardian.
+6. Durán, G. (2026). [_The Nerd Reich: Silicon Valley fascism and the war on democracy_](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402). Simon and Schuster.
+7. Lewis, B. (2025). [_Headed for technofascism: the rightwing roots of Silicon Valley_](https://www.theguardian.com/technology/ng-interactive/2025/jan/29/silicon-valley-rightwing-technofascism). The Guardian.
+8. [_The AI Resist List_](https://airesistlist.org/).
+9. [_Would You Like FRIES With That?  The 5 Pillars of Consent Everyone Should Know_](https://www.plannedparenthood.org/planned-parenthood-greater-ohio/media/blog-copy-2/would-you-like-fries-with-that-the-5-pillars-of-consent-everyone-should-know).
 
 ## Program Coordinators
 {{ grid(
